@@ -1,0 +1,6 @@
+Plots/*.png
+Graveyard/*
+Data/*
+*.DS_Store
+*.ipynb_checkpoints
+Code/__pycache__
