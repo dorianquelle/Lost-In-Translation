@@ -4,3 +4,4 @@ Data/*
 *.DS_Store
 *.ipynb_checkpoints
 Code/__pycache__
+PublicationData/*
